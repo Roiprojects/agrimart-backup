@@ -1,0 +1,201 @@
+﻿{
+    "rewrites":  [
+                     {
+                         "destination":  "/index.html",
+                         "source":  "/"
+                     },
+                     {
+                         "destination":  "/AM-products-list-p1.html",
+                         "source":  "/products"
+                     },
+                     {
+                         "destination":  "/AM-services.html",
+                         "source":  "/services"
+                     },
+                     {
+                         "destination":  "/AM-terms.html",
+                         "source":  "/terms"
+                     },
+                     {
+                         "destination":  "/AM-warranty.html",
+                         "source":  "/warranty"
+                     },
+                     {
+                         "destination":  "/AM-products-list-p1.html",
+                         "source":  "/index.php/home/list_products"
+                     },
+                     {
+                         "destination":  "/AM-services.html",
+                         "source":  "/index.php/home/services"
+                     },
+                     {
+                         "destination":  "/AM-terms.html",
+                         "source":  "/index.php/home/terms_conditions"
+                     },
+                     {
+                         "destination":  "/AM-warranty.html",
+                         "source":  "/index.php/home/warranty_policy"
+                     },
+                     {
+                         "destination":  "/index.html",
+                         "source":  "/index.php/home"
+                     },
+                     {
+                         "destination":  "/index.html",
+                         "source":  "/index.php/home/"
+                     },
+                     {
+                         "destination":  "/AM-products-list-p1.html",
+                         "source":  "/index.php/home/list_products/0"
+                     },
+                     {
+                         "destination":  "/AM-products-list-p1.html",
+                         "source":  "/products/page/1"
+                     },
+                     {
+                         "destination":  "/AM-products-list-p2.html",
+                         "source":  "/index.php/home/list_products/12"
+                     },
+                     {
+                         "destination":  "/AM-products-list-p2.html",
+                         "source":  "/products/page/2"
+                     },
+                     {
+                         "destination":  "/AM-products-list-p3.html",
+                         "source":  "/index.php/home/list_products/24"
+                     },
+                     {
+                         "destination":  "/AM-products-list-p3.html",
+                         "source":  "/products/page/3"
+                     },
+                     {
+                         "destination":  "/AM-products-list-p4.html",
+                         "source":  "/index.php/home/list_products/36"
+                     },
+                     {
+                         "destination":  "/AM-products-list-p4.html",
+                         "source":  "/products/page/4"
+                     },
+                     {
+                         "destination":  "/AM-products-list-p5.html",
+                         "source":  "/index.php/home/list_products/48"
+                     },
+                     {
+                         "destination":  "/AM-products-list-p5.html",
+                         "source":  "/products/page/5"
+                     },
+                     {
+                         "destination":  "/AM-products-list-p6.html",
+                         "source":  "/index.php/home/list_products/60"
+                     },
+                     {
+                         "destination":  "/AM-products-list-p6.html",
+                         "source":  "/products/page/6"
+                     },
+                     {
+                         "destination":  "/AM-products-list-p7.html",
+                         "source":  "/index.php/home/list_products/72"
+                     },
+                     {
+                         "destination":  "/AM-products-list-p7.html",
+                         "source":  "/products/page/7"
+                     },
+                     {
+                         "destination":  "/AM-products-list-p8.html",
+                         "source":  "/index.php/home/list_products/84"
+                     },
+                     {
+                         "destination":  "/AM-products-list-p8.html",
+                         "source":  "/products/page/8"
+                     },
+                     {
+                         "destination":  "/AM-products-list-p9.html",
+                         "source":  "/index.php/home/list_products/96"
+                     },
+                     {
+                         "destination":  "/AM-products-list-p9.html",
+                         "source":  "/products/page/9"
+                     },
+                     {
+                         "destination":  "/AM-products-list-p10.html",
+                         "source":  "/index.php/home/list_products/108"
+                     },
+                     {
+                         "destination":  "/AM-products-list-p10.html",
+                         "source":  "/products/page/10"
+                     },
+                     {
+                         "destination":  "/AM-products-list-p11.html",
+                         "source":  "/index.php/home/list_products/120"
+                     },
+                     {
+                         "destination":  "/AM-products-list-p11.html",
+                         "source":  "/products/page/11"
+                     },
+                     {
+                         "destination":  "/AM-products-list-p12.html",
+                         "source":  "/index.php/home/list_products/132"
+                     },
+                     {
+                         "destination":  "/AM-products-list-p12.html",
+                         "source":  "/products/page/12"
+                     },
+                     {
+                         "destination":  "/AM-products-list-p13.html",
+                         "source":  "/index.php/home/list_products/144"
+                     },
+                     {
+                         "destination":  "/AM-products-list-p13.html",
+                         "source":  "/products/page/13"
+                     },
+                     {
+                         "destination":  "/AM-products-list-p14.html",
+                         "source":  "/index.php/home/list_products/156"
+                     },
+                     {
+                         "destination":  "/AM-products-list-p14.html",
+                         "source":  "/products/page/14"
+                     },
+                     {
+                         "destination":  "/AM-products-list-p15.html",
+                         "source":  "/index.php/home/list_products/168"
+                     },
+                     {
+                         "destination":  "/AM-products-list-p15.html",
+                         "source":  "/products/page/15"
+                     },
+                     {
+                         "destination":  "/AM-products-list-p16.html",
+                         "source":  "/index.php/home/list_products/180"
+                     },
+                     {
+                         "destination":  "/AM-products-list-p16.html",
+                         "source":  "/products/page/16"
+                     },
+                     {
+                         "destination":  "/AM-products-list-p17.html",
+                         "source":  "/index.php/home/list_products/192"
+                     },
+                     {
+                         "destination":  "/AM-products-list-p17.html",
+                         "source":  "/products/page/17"
+                     },
+                     {
+                         "destination":  "/AM-products-list-p18.html",
+                         "source":  "/index.php/home/list_products/204"
+                     },
+                     {
+                         "destination":  "/AM-products-list-p18.html",
+                         "source":  "/products/page/18"
+                     },
+                     {
+                         "destination":  "/AM-products-list-p19.html",
+                         "source":  "/index.php/home/list_products/216"
+                     },
+                     {
+                         "destination":  "/AM-products-list-p19.html",
+                         "source":  "/products/page/19"
+                     }
+                 ],
+    "cleanUrls":  true
+}
